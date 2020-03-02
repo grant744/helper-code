@@ -1,11 +1,11 @@
 <?php
 
 
-include 'one/Example.php';
-include 'two/Example.php';
-include 'three/Example.php';
+include 'alex/Example.php';
+include 'john/Example.php';
+include 'ivan/Example.php';
 
-use two\Example;
+use john\Example;
 $instance = new Example;
 
 ?>
